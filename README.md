@@ -49,7 +49,9 @@ Here are the tools and technologies I work with:
 📧 Email: oscartibaduiza@hotmail.com                                        
 💼 LinkedIn: linkedin.com/in/oscartibaduiza48412949                                  
 🐙 GitHub: github.com/OscarTMa                                             
+
 ---
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
