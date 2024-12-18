@@ -50,8 +50,6 @@ Here are the tools and technologies I work with:
 💼 LinkedIn: linkedin.com/in/oscartibaduiza48412949                                  
 🐙 GitHub: github.com/OscarTMa                                             
 ---
-
-```markdown
-   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-   ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
