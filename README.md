@@ -45,3 +45,7 @@ Here are the tools and technologies I work with:
 - **[View Project](https://github.com/OscarTMa/time-series-forecasting)**  
 
 ---
+📫 How to Reach Me
+📧 Email: oscartibaduiza@hotmail.com
+💼 LinkedIn: linkedin.com/in/oscar-tibaduiza
+🐙 GitHub: github.com/OscarTMa
