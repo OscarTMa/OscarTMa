@@ -3,7 +3,21 @@
 **Data Scientist | Python & SQL Expert | AWS Certified**
 
 ---
+<h2>Follow Me 👥</h2>
 
+<p><strong>DAta Scientist</strong></p>
+<p>🌍 <strong>Location:</strong> Paris</p>
+<p>🌐 <strong>Website:</strong> <a href="http://www.rfidresearchgroup.com" target="_blank">http://www.rfidresearchgroup.com</a></p>
+<p>📢 <strong>Followers:</strong> 495</p>
+
+<h3>Social Media</h3>
+<ul>
+  <li>Twitter: <a href="https://twitter.com/herrmann1001" target="_blank">@herrmann1001</a></li>
+  <li>Twitter: <a href="https://twitter.com/RfidGroup" target="_blank">@RfidGroup</a></li>
+</ul>
+
+
+---
 ## 🚀 About Me  
 
 I’m a passionate **Data Scientist** with a strong background in **Python, SQL**, and cloud technologies like **AWS**. I specialize in transforming raw data into actionable insights to solve complex business problems. My expertise includes:
