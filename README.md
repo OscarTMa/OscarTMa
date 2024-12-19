@@ -1,4 +1,4 @@
-# 👋 Hi, I'm OscarTMa
+# 👋 Hi, I'm Oscar
 
 **Data Scientist | Python & SQL Expert | AWS Certified**
 
