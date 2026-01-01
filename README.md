@@ -11,7 +11,7 @@ I am a results-driven **AI Engineer** and **Data Specialist** bridging the gap b
 I focus on creating scalable solutions that integrate:
 - **Advanced AI Agents**: Building interactive systems using LLMs and RAG architectures.
 - **Data Engineering**: Orchestrating workflows with **Airflow**, scripting in **Linux/Bash**, and optimizing complex **SQL** databases.
-- **System Integration**: Connecting data sources with AI interfaces using **Streamlit** and cloud infrastructure on **AWS**.
+- **System Integration**: Connecting data sources with AI interfaces using **Streamlit** and cloud infrastructure on **AWS** & **GCP**.
 
 ---
 
@@ -33,7 +33,7 @@ Here are the tools and technologies I work with:
 ### **1. AI Agent Demo in Streamlit (SQL, Linux, Airflow)**
 - **Description**: An interactive "Data Engineering Control Plane" built with Streamlit. This project demonstrates a comprehensive integration of technical domains, allowing users to interact with SQL schemas, simulate Linux server automation, and visualize Airflow orchestration DAGs through a unified interface.
 - **Key Skills**: Streamlit, Python, SQL Optimization, Bash Scripting, Airflow concepts.
-- **[View Project](#)** *(Insert Link Here)*
+- **[View Project](#)** *(https://github.com/OscarTMa/AI-Agents)*
 
 ### **2. MCP: Implementation & Portfolio**
 - **Description**: Implementation of the **Model Context Protocol (MCP)** to standardize how AI models interact with server-side context and data. This project showcases the ability to connect LLMs securely and efficiently with external tools and datasets.
