@@ -38,17 +38,17 @@ Here are the tools and technologies I work with:
 ### **2. MCP: Implementation & Portfolio**
 - **Description**: Implementation of the **Model Context Protocol (MCP)** to standardize how AI models interact with server-side context and data. This project showcases the ability to connect LLMs securely and efficiently with external tools and datasets.
 - **Key Skills**: Model Context Protocol, System Architecture, API Integration, Backend Development.
-- **[View Project](#)** *(Insert Link Here)*
+- **[View Project](#)** *(https://github.com/OscarTMa/Portfolio-MCP)*
 
 ### **3. SQL Portfolio for Data Engineering**
 - **Description**: A collection of advanced SQL projects demonstrating mastery over database management. Includes complex querying using Window Functions, CTEs, stored procedures, and performance tuning for large-scale data environments.
 - **Key Skills**: Advanced SQL, Query Optimization, Database Modeling.
-- **[View Project](#)** *(Insert Link Here)*
+- **[View Project](#)** *(https://github.com/OscarTMa/Portfolio-SQL?tab=readme-ov-file)*
 
 ### **4. 5 AI/ML Projects Portfolio**
 - **Description**: A curated set of five diverse Machine Learning and Artificial Intelligence projects ranging from predictive modeling to deep learning applications, solving real-world business scenarios.
 - **Key Skills**: Scikit-learn, TensorFlow, Predictive Modeling, Data Analysis.
-- **[View Project](#)** *(Insert Link Here)*
+- **[View Project](#)** *(https://github.com/OscarTMa/Portfolio-ML)*
 
 ---
 
@@ -74,9 +74,9 @@ Here are the tools and technologies I work with:
 ---
 
 📫 **How to Reach Me**
-📧 Email: oscartibaduiza@hotmail.com
-💼 LinkedIn: [linkedin.com/in/oscartibaduiza48412949](https://linkedin.com/in/oscartibaduiza48412949)
-🐙 GitHub: [github.com/OscarTMa](https://github.com/OscarTMa)
+📧 Email: oscartibaduiza@hotmail.com                                                                
+💼 LinkedIn: [linkedin.com/in/oscartibaduiza48412949](https://linkedin.com/in/oscartibaduiza48412949)                                            
+🐙 GitHub: [github.com/OscarTMa](https://github.com/OscarTMa)                                            
 
 ---
 
