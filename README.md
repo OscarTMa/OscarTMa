@@ -74,9 +74,9 @@ Here are the tools and technologies I work with:
 ---
 
 📫 **How to Reach Me**                                                             
-📧 Email: oscartibaduiza@hotmail.com                                                                
-💼 LinkedIn: [linkedin.com/in/oscartibaduiza48412949](https://linkedin.com/in/oscartibaduiza)                                            
-🐙 GitHub: [github.com/OscarTMa](https://github.com/OscarTMa)                                            
+📧 Email:    oscartibaduiza@hotmail.com                                                                
+💼 LinkedIn: [linkedin.com/in/oscartibaduiza](https://linkedin.com/in/oscartibaduiza)                                            
+🐙 GitHub:   [github.com/OscarTMa](https://github.com/OscarTMa)                                            
 
 ---
 
